@@ -1,7 +1,7 @@
 ''' Gets student mark and displays the grade - Justine Lee '''
 
 # store student mark
-student_mark = input("Grade?")
+student_mark = input("Grade? Enter a number between 0 and 100")
 
 student_mark = int(student_mark)
 
