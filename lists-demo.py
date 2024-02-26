@@ -5,13 +5,13 @@ names = ["Angus","Thomas","William","Ash","Caitlin"]
 
 # create a list of ages
 ages = [15,15,15,15,15,21]
-"""
+
 # ask user for a position in list to display name from
 index = int(input("Give me index:"))
 
 # print 2nd item in the list
 print(f"Hello {names[index]}")
-"""
+
 print(len(names))
 
 # display all the names in the list
